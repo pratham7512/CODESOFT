@@ -1,6 +1,6 @@
-# C++ Tasks Repository
+# CODESOFT C++ Programming Tasks 
 
-This repository contains four C++ tasks to help you practice and improve your programming skills. Below are the details of each task:
+This repository contains four C++ tasks to be submitted to CODSOFT. Below are the details of each task:
 
 ## Task 1: Guess the Number
 
