@@ -1,4 +1,4 @@
-    # CODESOFT C++ Programming Tasks 
+# CODESOFT C++ Programming Tasks 
 
 This repository contains four C++ tasks to be submitted to CODSOFT. Below are the details of each task:
 
